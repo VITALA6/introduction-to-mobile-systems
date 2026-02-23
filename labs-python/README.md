@@ -1,0 +1,4 @@
+uv init
+uv venv
+source .venv/bin/active
+uv pip install -r requirements.txt
