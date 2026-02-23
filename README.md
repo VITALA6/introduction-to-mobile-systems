@@ -9,7 +9,7 @@ This repository contains materials for the "Introduction to Mobile Systems" cour
 ### 🐍 Python Source Code
 All Python-based simulations (Traffic Generation, Queuing Systems, etc.) are maintained in the **`py-labs`** branch.
 
-* **View Branch:** [Switch to `py-labs` branch](https://github.com/YOUR_GITHUB_USERNAME/introduction-to-mobile-systems/tree/py-labs)
+* **View Branch:** `py-labs`
 * **Switch via Terminal:**
   ```bash
   git fetch origin
